@@ -16,4 +16,4 @@ Alicante
 hotel 2
 restaurante 1
 ```
-Has a town called Alicante on (1,1) with 2 hotels and a restaurant
+has a town called Alicante on (1,1) with 2 hotels and a restaurant
