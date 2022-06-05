@@ -1,0 +1,44 @@
+MMMMMMMMMMM
+MTTTTTTTTTM
+MTTTTTTTTTM
+MTTTTTTTTTM
+MTTTTTTTTTM
+MTTTTTTTTTM
+MMMMMMMMMMM
+<LOCALIDAD>
+Centro
+3 5
+<INFO>
+hotel 2
+restaurante 1
+*** Sus
+<LOCALIDAD>
+arribaizq
+1 1
+<INFO>
+museo 1
+monumento 3
+*** cri
+<LOCALIDAD>
+arribadrcha
+1 9
+<INFO>
+museo 3
+hotel 3
+restaurante 4
+aeropuerto
+*** be
+<LOCALIDAD>
+abajoizq
+5 1
+<INFO>
+*** te
+hotel 10
+restaurante 10
+<LOCALIDAD>
+abajodrcha
+5 9
+<INFO>
+*** te
+hotel 10
+restaurante 10

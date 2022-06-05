@@ -1,0 +1,54 @@
+TTTTTTTTTTTTT
+MMMMMMTTTMMMM
+TMMTTTTTTTTMM
+MMTTTTTTTTTMM
+MTTTTTTTTTTMM
+MTTMMTTTTTTTT
+TTTTTTTTTTTTT
+<LOCALIDAD>
+Betis0
+11 6
+<INFO>
+hotel 1
+restaurante 1
+*asd
+<LOCALIDAD>
+Betis
+0 0
+<INFO>
+hotel 5
+restaurante 1
+<LOCALIDAD>
+Betis1
+2 0
+<INFO>
+hotel 5
+restaurante 1
+***Suscribete
+<LOCALIDAD>
+Betis2
+3 7
+<INFO>
+hotel 2
+restaurante 1
+<LOCALIDAD>
+Betis3
+3 5
+<INFO>
+museo 1
+monumento 3
+* la playa de la caleta
+<LOCALIDAD>
+Betis4
+1 7
+<INFO>
+museo 3
+hotel 3
+restaurante 4
+<LOCALIDAD>
+Betis5
+2 3
+<INFO>
+** la fontana di trevi
+hotel 10
+restaurante 10

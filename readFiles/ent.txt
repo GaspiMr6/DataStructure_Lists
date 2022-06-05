@@ -1,0 +1,23 @@
+MMMMM
+MTTTM
+MMMMM
+<LOCALIDAD>
+Centro
+1 2
+<INFO>
+hotel 2
+restaurante 1
+<LOCALIDAD>
+izq
+1 1
+<INFO>
+museo 1
+monumento 3
+* la playa de la caleta
+<LOCALIDAD>
+drcha
+1 3
+<INFO>
+museo 3
+hotel 3
+restaurante 4

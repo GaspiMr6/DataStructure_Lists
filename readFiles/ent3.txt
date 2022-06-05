@@ -1,0 +1,66 @@
+TTTTTTTTTTTTTTTTT
+TTTTTTTTTTTTTTTTT
+TTTTTTTTTTTTTTTTT
+TTTTTTTTTTTTTTTTT
+TTTTTTTTTTTTTTTTT
+TTTTTTTTTTTTTTTTT
+TTTTTTTTTTTTTTTTT
+TTTTTTTTTTTTTTTTT
+<LOCALIDAD>
+ai
+0 0
+<INFO>
+hotel 2
+restaurante 1
+*** Sus
+<LOCALIDAD>
+ad
+0 16
+<INFO>
+museo 1
+monumento 3
+*** cri
+<LOCALIDAD>
+abajodrcha
+7 16
+<INFO>
+museo 3
+hotel 3
+restaurante 4
+*** be
+<LOCALIDAD>
+abizq
+7 0 
+<INFO>
+*** te
+hotel 10
+restaurante 10
+<LOCALIDAD>
+betis1
+3 3
+<INFO>
+hotel 2
+restaurante 1
+*** Sus
+<LOCALIDAD>
+betis2
+3 5
+<INFO>
+museo 1
+monumento 3
+*** cri
+<LOCALIDAD>
+betis3
+4 5
+<INFO>
+museo 3
+hotel 3
+restaurante 4
+*** be
+<LOCALIDAD>
+betis4
+2 8
+<INFO>
+*** te
+hotel 10
+restaurante 10
